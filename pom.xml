@@ -12,7 +12,7 @@
 	<groupId>com.ci.cd</groupId>
 	<packaging>war</packaging>
 	<artifactId>ci_cd_demo</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2</version>
 	<name>ci_cd_demo</name>
 	<description>Demo project for Spring Boot</description>
 
